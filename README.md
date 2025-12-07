@@ -24,6 +24,8 @@
 
 [WEEK 13](#week-13)
 
+[WEEK 14](#week-14)
+
 ## WEEK 3. 
 
 2 September - 9 September 2025
@@ -434,13 +436,13 @@ These are the results from all the varying widths:
 
 I think the 1mm width will give us enough of a change for our ambient objects to work, but I still wanted to test the different sizes of holes to have the extra information, just in case we need to make a pivot later. 
 
-1   mm diameter -- 
+1   mm diameter -- about 1.0 degrees C of change in 15-20 seconds
 
-1.5 mm diameter -- 
+1.5 mm diameter -- about 1.5 degrees C of change in 15-20 seconds
 
-2   mm diameter -- 
+2   mm diameter -- about 1.5 degrees C of change in 15-20 seconds
 
-3   mm diameter -- 2.0 degrees C of change in 15-20 seconds
+3   mm diameter -- about 2.0 degrees C of change in 15-20 seconds
 
 https://github.com/user-attachments/assets/b17908da-b531-4ca1-9ec2-3a373742951e
 
@@ -461,7 +463,9 @@ This was a form of 3 dimensional sketching for us, and allowed us to come up wit
 
 First, the Sending object:
 
-**add image**
+<img width="300" alt="Screenshot 2025-11-18 at 11 33 16" src="https://github.com/user-attachments/assets/fdea50be-c9a3-44ae-a8ab-16fa879a407f" />
+<img width="300" alt="Screenshot 2025-11-18 at 11 33 16" src="https://github.com/user-attachments/assets/8efad17f-ae89-4b0e-aa23-65554cb3b3a3" />
+<img width="300" alt="Screenshot 2025-11-18 at 11 33 16" src="https://github.com/user-attachments/assets/f9428d99-9ba1-4319-bcf9-51a69060bfe9" />
 
 The idea for this object is the general shape of the bottom of the object fits the curve of a hand, but is also big enough to be held comfortably in both hands. There is a slight dip in the top of the 
 
@@ -478,9 +482,25 @@ We decided that I will focus on the Sending object while Nengi focuses on the Re
 
 ## WEEK 14. 
 
-Nov 25 - 27
+Nov 25 - Nov 27
 
 ### **Fabrication**
-For fabrication this week, my first goal was to get a digital 3D model of the clay object we'd designed last week onto the 3D printer for an intial test print. With a huge helping hand from Jill Silva (THANK YOU) managed to get something ressembling our shape modelled in fusion. The trickiest part has been deciding on how the object will open and close to get the electronics in and out. 
+For fabrication this week, my first goal was to get a digital 3D model of the clay object we'd designed last week onto the 3D printer for an intial test print. With a huge helping hand from Jill Silva, I managed to get something ressembling our shape modelled in fusion. The trickiest part has been deciding on how the object will open and close to get the electronics in and out, but as a group we decided a horizontal cut through the middle with a press fit made the most sense at the moment. Since the object is so organic and rounded there would be some sort of visible line that the user would likely also be able to feel when holding the object, so we decided to put it right through the middle. We decided there was very little functional or aesthetic gain to putting it anywhere else, and thought it would be easiest to get the press fit to work at the widest point of the object.
+
+<img width="500" alt="Screenshot 2025-12-06 at 15 21 44" src="https://github.com/user-attachments/assets/602fb69f-7d69-49ad-a516-04853011ca58" />
+<img width="500" alt="Screenshot 2025-12-06 at 15 21 36" src="https://github.com/user-attachments/assets/8770a41e-1da4-44e4-ae5e-4becaa01c9e7" />
+<img width="500" alt="Screenshot 2025-12-06 at 15 21 50" src="https://github.com/user-attachments/assets/83266b21-fe11-45d3-b51a-27e82ba0dec6" />
+<img width="500" alt="Screenshot 2025-12-06 at 15 53 32" src="https://github.com/user-attachments/assets/5c681cf8-9fcf-4873-b1da-d81febdd76bb" />
+
+I decided to print two versions with slightly different press fit tolerances to see what worked best. The prints had some issues on the bambu so the press fit edge was a bit damaged on one side, but we were still able to learn a lot from these prints. Firstly, the object was a bit too tall to sit super comfortably in the hand, so it would need to be slightly compressed. Secondly, the print was way too thin (I broke one of the test prints while holding it) so we'd need to widen the shell and then thin the space where the sensor will fit, since it the thickness of the PLA really changes its sensitivity, which we learned through earlier testing. And lastly, while the press fit worked (except for the failed print part) we decided having a slightly taller press fit part (the part that sticks out and actually allows for the press fit) would probably help keep it more secure.   
+
+
 
 ### **Electronics**
+
+## WEEK 15. 
+
+Dec 1 - Dec 4
+
+### **Electronics**
+Final week of TDF! This week, my fabrication goal 

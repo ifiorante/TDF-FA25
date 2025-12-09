@@ -26,6 +26,10 @@
 
 [WEEK 14](#week-14)
 
+[WEEK 15](#week-15)
+
+[WEEK 16](#week-16)
+
 ## WEEK 3. 
 
 2 September - 9 September 2025
@@ -482,6 +486,11 @@ We briefly discussed materials, and while we thought metal would be the ideal ma
 We decided that I will focus on the Sending object while Nengi focuses on the Receiving object and we will liason with each other to ensure they maintain scale and aesthetic similarities, and both of us will liason with Sarah re electronics fitting and working. 
 
 ### **Electronics**
+This week for electronics, I checked in with Sarah. My focus was mostly on the temperature sensor, since that would be the electronic component going inside the Sender object. We successfully have the sending ESP32 detecting temperature and signaling to the receiving ESP32 when a hand is or is not present in front of the temperature sensor!! Right now, it is only turning the onboard LED of the receiving ESP32 on and off, so next steps are to connect the neopixel strip and get the wiring and coding fixed up.
+
+Here is a pic of where our wiring is at:
+
+<img width="600" alt="sketch-2" src="https://github.com/user-attachments/assets/cdbcae52-3f05-4c94-b18e-873e69071fe0" />
 
 ## WEEK 14. 
 
@@ -502,6 +511,20 @@ I decided to print two versions with slightly different press fit tolerances to 
 <img width="400" alt="Test Print 3" src="https://github.com/user-attachments/assets/1615d351-d36a-4483-9ec4-8dc948b66cdd" />
 <img width="400" alt="Test Print 4" src="https://github.com/user-attachments/assets/3cafc8b4-ed6a-42d8-a389-59bdaeca6145" />
 
+### **Electronics**
+Our electronics components seem to be going pretty smoothly. I checked in with Sarah about the test prints, to make sure that the sensor would still work through the PLA. We obviously ran earlier tests to know about PLA and sensing, but electronics can be finnicky and it's good to know if the sensor still works now that we have a test that more closely resembles our goal final form. 
+
+This week, Sarah was able to get the Neopixel strip wired and running. Currently, our circuit can detect a warm hand, which turns the Neopixel strip on, and over the course of 10 seconds it goes from 1% to 100% intensity. This increasing of brightness is interrupted if the warm hand leaves. If that happens, the light will decrease in intensity at 3x the rate of which it increased.
+
+With the test version of the object over the sensor, Sarah spent some time adjusting the temperature thresholds a bit and we managed to get it working:
+
+https://github.com/user-attachments/assets/aa521072-495c-48ae-83d3-109a017f5155
+
+It’s a little hard to tell through this vieo, but the longer the hand stays on the PLA for, the brighter the neopixel strip gets. And when the hand leaves, it dims (faster than it lights up). 
+
+The core of the electronics is working, and our last major goal is making the color change with the brightness as time passes. We want this to be really subtle, maybe from yellow to orange or something, just to underscore and add to the brightness changing. 
+
+
 ## WEEK 15. 
 
 Dec 1 - Dec 4
@@ -520,16 +543,20 @@ After many many hours of sanding, a quick spackle over some surface imperfection
 <img width="400" alt="Final finishes" src="https://github.com/user-attachments/assets/e2465070-d250-4b19-8c9e-fb0223c9d884" />
 
 And a quick preview of both objects together:
+
 <img width="400" alt="both objs" src="https://github.com/user-attachments/assets/3d6a0f9a-0d16-4fd3-966c-4b42e78ad555" />
 
- Things are shaping up! I'm excited to see everything together and working.
+Things are shaping up! I'm excited to see everything together and working.
  
 ### **Electronics**
+Electronics are wrapping up pretty quickly. This week, Sarah modified the code to make the color subtly transition to orange at the same time that the brightness is increasing. Nengi's print of the receiving object's internal architecture was successful, so we were able to partially construct our project. Here’s how the physical and electrical components look together so far:
+
+https://github.com/user-attachments/assets/8fdc51ee-7ea1-43f5-89f7-df402a4b6f08
+
+
 
 ## Week 16. 
 
-Dec 9 - 11
-
-### **Fabrication**
+Jacobs Showcase Design 9
 
 ### **Reflection**

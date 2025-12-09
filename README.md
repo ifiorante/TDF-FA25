@@ -470,7 +470,10 @@ First, the Sending object:
 The idea for this object is the general shape of the bottom of the object fits the curve of a hand, but is also big enough to be held comfortably in both hands. There is a slight dip in the top of the 
 
 For the Receiving object, we settled on this form (we ran out of clay so here is a drawing):
-**add image**
+
+<img width="600" alt="sketch" src="https://github.com/user-attachments/assets/ce5c7c49-de97-487b-afb8-5009821d5c8c" />
+
+<img width="600" alt="sketch-2" src="https://github.com/user-attachments/assets/8e58c880-d355-482c-966f-4ba3759414e8" />
 
 The idea is that the Sending object would rest nicely on the gap in the Receiving, so that together they form one object. While this is not really important on a practical level (the objects aren't intended to be together, actually they are intended to be far apart), their physical forms having a relationship to one another is important on the metaphysical level. Since we decided that our project would have meaning/impact through sentimentality, we thought it would help users form emotional attachments to and through the objects by knowing and being able to see that their object physically belongs with its counterpart, even though they, like their users, are separated at the moment.
 
@@ -494,13 +497,39 @@ For fabrication this week, my first goal was to get a digital 3D model of the cl
 
 I decided to print two versions with slightly different press fit tolerances to see what worked best. The prints had some issues on the bambu so the press fit edge was a bit damaged on one side, but we were still able to learn a lot from these prints. Firstly, the object was a bit too tall to sit super comfortably in the hand, so it would need to be slightly compressed. Secondly, the print was way too thin (I broke one of the test prints while holding it) so we'd need to widen the shell and then thin the space where the sensor will fit, since it the thickness of the PLA really changes its sensitivity, which we learned through earlier testing. And lastly, while the press fit worked (except for the failed print part) we decided having a slightly taller press fit part (the part that sticks out and actually allows for the press fit) would probably help keep it more secure.   
 
-
-
-### **Electronics**
+<img width="400" alt="Test Print 1" src="https://github.com/user-attachments/assets/06ce40a1-54de-4751-9461-fa2cab66aa94" />
+<img width="400" alt="Test Print 2" src="https://github.com/user-attachments/assets/86a0d0f3-fb72-49ac-9c18-23d9b1ca1c3d" />
+<img width="400" alt="Test Print 3" src="https://github.com/user-attachments/assets/1615d351-d36a-4483-9ec4-8dc948b66cdd" />
+<img width="400" alt="Test Print 4" src="https://github.com/user-attachments/assets/3cafc8b4-ed6a-42d8-a389-59bdaeca6145" />
 
 ## WEEK 15. 
 
 Dec 1 - Dec 4
 
+### **Fabrication**
+Final week of TDF! This week, my fabrication goal was to make the improvements that we learned from our test print to our model in fusion. This was a bit difficult since making the shell thicker meant essentially going back to the initial form, and making changes so far back in the history of the file messed with the press fit. Essentially, I had to rebuild the object almost from scratch. I was a bit worried that these changes wouldn't be ideal, and we'd have to remodel after this one and run another print, but this one was very successful. The shape fit better in the hand and the thicker shell was much sturdier. The thinned part of the PLA at the base of the shell meant the sensor could still work through the PLA. In general we are very happy with it. 
+
+<img width="400" alt="Final print 1" src="https://github.com/user-attachments/assets/b38bd68b-3816-484b-b946-c8c3502f3680" />
+<img width="400" alt="Final print 2" src="https://github.com/user-attachments/assets/5c506422-c249-48ba-bd26-68c172c2bb5f" />
+<img width="400" alt="Final print 3" src="https://github.com/user-attachments/assets/59656256-41b9-4da9-9cbe-1bb103685187" />
+<img width="400" alt="Final print 4" src="https://github.com/user-attachments/assets/5401ca5b-d686-498f-b3bb-489dda1223d0" />
+
+After many many hours of sanding, a quick spackle over some surface imperfections from the printer, a prime and a paint, the Sender object is finished!! I'm really happy with how smooth the finish is, especially since it is meant to be handheld, it was really important to me that it be smooth to the touch and just really nice to hold.
+
+<img width="400" alt="Final finishes" src="https://github.com/user-attachments/assets/4ebe94bb-7dc2-4b2b-aae0-0c2de889d6e7" />
+<img width="400" alt="Final finishes" src="https://github.com/user-attachments/assets/e2465070-d250-4b19-8c9e-fb0223c9d884" />
+
+And a quick preview of both objects together:
+<img width="400" alt="both objs" src="https://github.com/user-attachments/assets/3d6a0f9a-0d16-4fd3-966c-4b42e78ad555" />
+
+ Things are shaping up! I'm excited to see everything together and working.
+ 
 ### **Electronics**
-Final week of TDF! This week, my fabrication goal 
+
+## Week 16. 
+
+Dec 9 - 11
+
+### **Fabrication**
+
+### **Reflection**

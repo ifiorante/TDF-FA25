@@ -553,10 +553,30 @@ Electronics are wrapping up pretty quickly. This week, Sarah modified the code t
 
 https://github.com/user-attachments/assets/8fdc51ee-7ea1-43f5-89f7-df402a4b6f08
 
+some fabrication photos of the final assembly:
+
+<img width="400" alt="Final finishes" src="https://github.com/user-attachments/assets/8e9b1109-ac32-4926-b5ae-5c1a8125c9d1" />
+<img width="400" alt="Final finishes" src="https://github.com/user-attachments/assets/a6a7040c-0f40-4bc3-9622-df942ac69f52" />
+<img width="400" alt="Final finishes" src="https://github.com/user-attachments/assets/b4b3421e-3a61-4e70-a8bb-a9f9a53aaf35" />
 
 
 ## Week 16. 
 
-Jacobs Showcase Design 9
+Jacobs Design Showcase - 9 Dec
 
 ### **Reflection**
+
+I was really happy with how our final project turned out, and I was really suprised by how much presenting it on a proper pedestal in a properly lit room really changed how polished the work appeared. Not that we didn't work really hard to add finishing touches, but those touches felt much more obvious than they have for previous presentations. I was really touched by the reaction to our work, watching people interact with it and engage with it was really fun to watch. I was a bit worried our project would maybe feel less complex or involved than other projects and that it would be obvious at the showcase, especially since it was so contained (it didn't have any computers or screens or cameras), but I also think that because it was so contained people were not sure what to expect, and the element of surprise when the object lit up was really delightful. The positive reaction to our work has actually encouraged us to push this project a bit more, and Nengi and I have decided we want to spend the break trying to make the sender object in metal to polish off this work a bit. 
+
+Final showcase assembly:
+
+<img width="400" alt="Final finishes" src="https://github.com/user-attachments/assets/8bb14e45-ea49-4121-b45c-8a988761e1cc" />
+
+Photos and videos from the set up:
+
+<img width="400" alt="Final finishes" src="https://github.com/user-attachments/assets/1ae65c4b-1076-40af-82ce-ceb24cde37ab" />
+<img width="400" alt="Final finishes" src="https://github.com/user-attachments/assets/fb2798f5-9c19-43bf-a2ec-dd23d7061cb7" />
+
+https://github.com/user-attachments/assets/510d7361-13ed-4ee3-b6a1-c92e9dc6ace0
+
+
